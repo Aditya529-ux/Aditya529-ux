@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<link rel="stylesheet" href="form3.css">
+</head>
+<body>
+<div class="container">
+
+<form action="#" method="POST" enctype="multipart/form-data">
+<div class="heading">REGISTRATION FORM</div>
+<div class="namedetail">
+<div class="inputbox">
+<label for="username">Username:</label>
+<input type="text" id="username" minlength="8" maxlength="15" placeholder="Enter your name" required>
+</div>
+<br>
+<div class="inputbox">
+<label for="password">Password:</label>
+<input type="password" id="password">
+</div>
+<br>
+<br>
+<div class="inputbox">
+<label for="email">E-Mail</label>
+<input type="email" id="email">
+</div>
+<br>
+<br>
+<br>
+<br
+<div class="inputbox">
+<label for="phonenum">Phone Num:</label>
+<input type="phoneno" id="phonenum" placeholder="12-3456-7890">
+</div>
+<br>
+<br>
+,
+<div class="inputbox">
+<label for="quantity">No. of attempts taken:</label>
+<input type="number" id="quantity" min="1" max="9" value="0">
+</div>
+<br>
+<div class="inputbox">
+<label for="dated">Date on which form has been applied:</label>
+<input type="date" id="dated">
+</div>
+<br>
+<div class="title">
+<label for="gender">Title:</label>
+<label for="mr.">Mr.</label>
+<input type="radio" name="gender">
+<label for="ms.">Ms.</label>
+<input type="radio" name="gender">
+<label for="mrs.">Mrs.</label>
+<input type="radio" name="gender">
+</div>
+<br>
+<div>
+<label for="files">Upload files:</label>
+<input type="file" id="files" accept="images/png, images/jpeg">
+</div>
+<br>
+<div>
+<label for="check">All files have been uploaded:</label>
+<input type="checkbox" id="check">
+</div>
+<br>
+<div>
+<label for="Payments">Payments:</label>
+<select name="" id="">
+<option value="rs">Rs.</option>
+<option value="dollar">$</option>
+</select>
+</div>
+<br>
+<div class="inputbox">
+<label for="comment">Any Comments:</label>
+<textarea name="textarea" id="comment" rows="4" cols="45px"></textarea>
+</div>
+<br>
+<div class="buttons">
+<input type="submit" id="button1">
+</div>
+<br>
+
+</div>
+</div>
+</form>
+</body>
+</html>
