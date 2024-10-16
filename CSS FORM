@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    body{
+    height: 100vh;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, rgb(53, 66, 205), rgb(78, 152, 78));
+    padding: 10px;
+    }
+    .container{
+    background: rgb(242, 247, 247);
+    padding: 30px;
+    font-size: 16px;
+    border-radius: 50px;
+    filter: drop-shadow(10px 10px 20px);
+    }
+    .container .heading{
+    font-size: 25px;
+    font-weight: 600;
+    position: relative;
+    }
+    .container .namedetail{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+    }
+    .namedetail .inputbox{
+    width: calc(100%/2-20px);
+    
+    }
+    .namedetail .inputbox input{
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid forestgreen;
+    
+    }
