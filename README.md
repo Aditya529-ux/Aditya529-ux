@@ -1,107 +1,106 @@
-# [ADITYA KUMAR SHARMA](https://github.com/AdityaSharma529-ux)
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdityaSharma529/AdityaSharma529/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaSharma529&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="github-profile-trophy" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=200&section=header&text=ADITYA%20KUMAR%20SHARMA&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaSharma529&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya529-ux&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aditya529-ux?label=Followers&style=flat-square&color=9D4EDD" />
 </div>
 
 <hr />
 
 <!-- HERO SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=ADITYA+KUMAR+SHARMA;AI+ANALYST;FULL+STACK+DEVELOPER;PROBLEM+SOLVER" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=7B2CBF&center=true&vCenter=true&width=400&lines=Building+Impactful+Systems;Solving+Real+World+Problems;Mastering+the+AI+Landscape" alt="Typing SVG Subtitle" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=AI+%26+ML+ENGINEER;FULL+STACK+DEVELOPER;SYSTEMS+ARCHITECT;PROBLEM+SOLVER" alt="Typing SVG" />
 </div>
 
 <br />
 
-<!-- ABOUT ME SECTION -->
+<!-- PLACEMENT STYLE ABOUT ME -->
 <table>
   <tr>
     <td width="60%">
-      <h3>🚀 My Journey</h3>
+      <h3>👨‍💻 Professional Summary</h3>
       <p>
-        My journey into the world of technology began with a simple curiosity: <i>How can we make machines think like us?</i> This curiosity evolved into a dedicated pursuit of <b>AI and ML</b> at <b>Lovely Professional University</b>, where I am currently pursuing my B.Tech.
+        I am a <b>B.Tech CS Engineering student</b> at <b>Lovely Professional University</b>, specializing in <b>AI & Machine Learning</b>. My expertise lies in building end-to-end intelligent systems, from deep learning models to robust full-stack desktop and web applications.
       </p>
       <p>
-        I don't just write code; I architect systems. From building the <b>AURELIEUS AI Assistant</b> to simulating <b>Complex Operating System Algorithms</b>, my focus has always been on creating software that is efficient, scalable, and impactful.
+        My goal is to engineer software that isn't just functional, but <i>intelligent</i> and <i>impactful</i>. I focus on high-performance architecture and seamless user experiences.
       </p>
       <ul>
-        <li>🔭 Currently working on: <b>Scaling AURELIEUS AI</b> for more complex reasoning.</li>
-        <li>🌱 Learning: Advanced <b>LLM Fine-tuning</b> and <b>Distributed Systems</b>.</li>
-        <li>👯 Interested in: Collaborating on <b>AI-driven automation</b> projects.</li>
-        <li>💬 Ask me about: <b>Python, Web Simulation, or Neural Networks</b>.</li>
+        <li>🔭 <b>Currently:</b> Scaling the <b>AURELIEUS AI</b> ecosystem.</li>
+        <li>⚡ <b>Core Strengths:</b> LLM Reasoning, Computer Vision, & System Visualization.</li>
+        <li>🌐 <b>Interests:</b> Distributed AI Systems & Real-world Problem Solving.</li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AdityaSharma529&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya529-ux&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF" alt="GitHub Streak" width="100%" />
+      <br/>
+      <i>Note: External stats services may occasionally be slow to load.</i>
     </td>
   </tr>
 </table>
 
 <br />
 
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Ecosystem</h2>
-
+<!-- FLAGSHIP PROJECT: AURELIEUS -->
+<h2 align="center">🏆 Flagship Project: AURELIEUS AI</h2>
 <div align="center">
-  <p><b>Languages & Core</b></p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,cpp,html,css" alt="Languages" /></a>
-  
-  <p><b>Frontend & Design</b></p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,figma" alt="Frontend" /></a>
-  
-  <p><b>Backend & Infrastructure</b></p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,flask,docker" alt="Backend" /></a>
-  
-  <p><b>AI / ML & Analysis</b></p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas,sklearn" alt="AI/ML" /></a>
-  
-  <p><b>Tools & Workflow</b></p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Tools" /></a>
+  <p align="center">
+    <b>A Multi-Modal AI Assistant Ecosystem</b>
+  </p>
+  <img src="https://img.shields.io/badge/Architecture-Electron%20%7C%20React%20%7C%20Node.js%20%7C%20Python-9D4EDD?style=for-the-badge" />
+  <p align="justify" style="padding: 0 20px;">
+    <b>AURELIEUS</b> represents my most significant engineering milestone — a personal AI assistant built to bridge the gap between high-level reasoning and local task execution. It features a custom-built backend for LLM orchestration, a modern React-based workspace, and a high-performance desktop client.
+  </p>
+  <a href="https://github.com/Aditya529-ux/AURELIEUS-My-Personal-AI-Assistant"><b>View Technical Documentation →</b></a>
 </div>
 
 <br />
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🌟 Featured Architecture</h2>
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
+<div align="center">
+  <p><b>Artificial Intelligence & Data Science</b></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas" alt="AI/ML" /></a>
+  
+  <p><b>Full-Stack Development</b></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,flask" alt="Full Stack" /></a>
+  
+  <p><b>System & Engineering Tools</b></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cat,cpp,git,github,docker,linux,vscode" alt="Tools" /></a>
+</div>
+
+<br />
+
+<!-- ENGINEERING PORTFOLIO -->
+<h2 align="center">📂 Engineering Portfolio</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h4>🤖 AURELIEUS AI Assistant</h4>
-        <p>A sophisticated AI ecosystem designed for advanced reasoning and task automation. Built with focus on LLM integration and seamless UX.</p>
-        <code>Python</code> <code>LLMs</code> <code>WebSockets</code>
-      </td>
-      <td width="50%">
         <h4>🚗 Car Price Predictor</h4>
-        <p>A machine learning tool that leverages advanced regression models to predict automobile valuation with high precision based on diverse data points.</p>
-        <code>Scikit-learn</code> <code>Flask</code> <code>Pandas</code>
+        <p>An advanced regression-based ML tool designed to predict automobile valuations with high accuracy using multi-variable datasets.</p>
+        <code>Scikit-learn</code> <code>Flask</code> <code>Seaborn</code>
+      </td>
+      <td width="50%">
+        <h4>🔢 Handwritten Digit Recognizer</h4>
+        <p>A Neural Network implementation optimized for high-precision classification of handwritten digits using deep learning architectures.</p>
+        <code>TensorFlow</code> <code>CNN</code> <code>OpenCV</code>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h4>🧠 Page Replacement Sim</h4>
-        <p>A deep-dive visualization tool into memory management algorithms like LRU, FIFO, and Optimal, featuring real-time performance analytics.</p>
-        <code>JavaScript</code> <code>Algorithm Visualization</code>
+        <h4>🍔 STUFOODS Platform</h4>
+        <p>A full-stack food delivery architectural prototype designed specifically for campus ecosystems with real-time order tracking.</p>
+        <code>MERN Stack</code> <code>Redux</code> <code>Auth</code>
       </td>
       <td width="50%">
-        <h4>⚡ System Dynamics Monitor</h4>
-        <p>Low-level analysis tool for monitoring hardware performance and resource allocation in real-time environments.</p>
-        <code>C++</code> <code>System APIs</code> <code>Real-time Data</code>
+        <h4>💾 OS Algorithm Simulator</h4>
+        <p>A visual analysis tool for Memory Management algorithms (LRU, FIFO, Optimal) to study page replacement performance metrics.</p>
+        <code>JS</code> <code>Vite</code> <code>Algorithms</code>
       </td>
     </tr>
   </table>
@@ -109,63 +108,30 @@
 
 <br />
 
-<!-- AI / ML FOCUS -->
-<h2 align="center">🔮 The Intelligence Layer</h2>
-<p align="center">
-  <i>"Predicting the future is easy. Engineering it is where the adventure lies."</i>
-</p>
+<!-- CONNECT SECTION -->
+<h2 align="center">🤝 Let's Connect</h2>
 <div align="center">
-  <table width="90%">
-    <tr>
-      <td align="center">
-        <b>LLMs & NLP</b><br/>
-        Fine-tuning models and building context-aware agents that understand human intent.
-      </td>
-      <td align="center">
-         <b>Automation Systems</b><br/>
-         Creating intelligent workflows that reduce human toil and increase efficiency.
-      </td>
-      <td align="left">
-         <b>Data Modeling</b><br/>
-         Extracting actionable insights from complex datasets to drive decision making.
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<!-- ACHIEVEMENTS -->
-<h2 align="center">🏆 Milestones & Growth</h2>
-<ul>
-  <li><b>AI Intern @ Acadmor:</b> Contributed to developing machine learning pipelines for predictive analytics.</li>
-  <li><b>Web Development @ IIT Kharagpur:</b> Completed advanced course focusing on full-stack architecture.</li>
-  <li><b>Hackathon Finalist:</b> Engineered a real-time tracking system for emergency services.</li>
-</ul>
-
-<br />
-
-<!-- STATS & ANALYTICS -->
-<h2 align="center">📊 The Code Metrics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma529&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=E0AAFF" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSharma529&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakNum=E0AAFF" alt="GitHub Streak" />
-</p>
-
-<br />
-
-<!-- CONNECT WITH ME -->
-<h2 align="center">🤝 Let's Architect the Future</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-sharma22/">
+  <a href="https://www.linkedin.com/in/aditya-kumar-sharma-860937320/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/AdityaSharma529/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://www.instagram.com/aaditya.1159/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="mailto:adityasharma592004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+<br />
+
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 System Contributions</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aditya529-ux/Aditya529-ux/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <p><i>Building and shipping daily.</i></p>
 </div>
 
 <br />
